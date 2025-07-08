@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.log
+
+# Virtual Environment
+venv/
+.env/
+
+# Audio or model files
+*.wav
+audio_model/
+
+# IDE configs
+.vscode/
+.idea/
+.DS_Store

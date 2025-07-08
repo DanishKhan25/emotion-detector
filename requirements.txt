@@ -1,0 +1,9 @@
+librosa
+numpy
+scikit-learn
+nltk
+pandas
+matplotlib
+transformers
+datasets
+soundfile
